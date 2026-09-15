@@ -21,18 +21,11 @@ KodBox (可道云) Public Share Unauthorized Access Vulnerability
   ---
   Affected Product / 受影响产品
 
-  ┌─────────────┬───────────────────────────────────────────────────┐
-  │    字段     │                        值                         │
-  ├─────────────┼───────────────────────────────────────────────────┤
-  │ Product /   │ KodBox (可道云)                                   │
-  │ 产品        │                                                   │
-  ├─────────────┼───────────────────────────────────────────────────┤
-  │ Version /   │ All versions / 全版本（已验证 Verified V1.69）    │
-  │ 版本        │                                                   │
-  ├─────────────┼───────────────────────────────────────────────────┤
-  │ Vendor /    │ 杭州可道云网络有限公司 (Hangzhou KodCloud Network │
-  │ 厂商        │  Co., Ltd.)                                       │
-  └─────────────┴───────────────────────────────────────────────────┘
+  | 字段 / Field | 值 / Value |
+|:---|:---|
+| Product / 产品 | KodBox (可道云) |
+| Version / 版本 | All versions / 全版本（已验证 Verified V1.69） |
+| Vendor / 厂商 | 杭州可道云网络有限公司 (Hangzhou KodCloud Network Co., Ltd.) |
 
   Vulnerability Type / 漏洞类型
 
